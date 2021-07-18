@@ -18,4 +18,4 @@ This is a simple MERN project which helps you to understand all the basic unders
  `npm start `  and `nodemon server.js` to the terminal
  
  
-                                                                 <h1>⭐⭐⭐⭐⭐⭐⭐⭐</h1>
+                                                 <h1>⭐⭐⭐⭐⭐⭐⭐⭐</h1>
